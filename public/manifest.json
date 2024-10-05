@@ -1,0 +1,10 @@
+{
+    "name": "LE-Shop",
+    "tagline": "Your One-Stop Shopping Destination",
+    "short_name": "LES",
+    "description": "Explore interactive dropdown menus and discover the magic of web navigation!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+}

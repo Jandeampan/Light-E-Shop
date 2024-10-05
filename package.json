@@ -1,0 +1,22 @@
+{
+  "name": "le-shop",
+  "version": "1.0.0",
+  "description": "A e-commerce platform built with HTML, CSS, Node.js, Express, and JSON, offering a seamless shopping experience",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "is-online": "^11.0.0",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
